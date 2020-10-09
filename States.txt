@@ -1,0 +1,37 @@
+0.0 	India +
+1.0     Andaman and Nicobar Islands union territory+	
+2.0     Andhra Pradesh+	       
+3.0 	Arunachal Pradesh+	       
+4.0 	Assam+
+5.0 	Bihar+       
+6.0 	Chandigarh+       
+7.0 	Chhattisgarh+	
+8.0 	Dadra and Nagar Haveli and Daman and Diu union territory+	       
+9.0 	Delhi+
+10.0 	Goa+      
+11.0 	Gujarat+
+12.0 	Haryana+
+13.0 	Himachal Pradesh+
+14.0 	Jammu and Kashmir union territory+	
+15.0 	Jharkhand+	
+16.0 	Karnataka+	
+17.0 	Kerala+	
+18.0 	Ladakh union territory	Leh+ 
+19.0 	Lakshadweep union territory+	
+20.0 	Madhya Pradesh+	
+21.0 	Maharashtra+	
+22.0 	Manipur+
+23.0 	Meghalaya+	
+24.0 	Mizoram+	
+25.0 	Nagaland+	
+26.0 	Odisha+	
+27.0 	Puducherry union territory+	
+28.0 	Punjab+
+29.0 	Rajasthan+	
+30.0 	Sikkim+	
+31.0 	Tamil Nadu+	
+32.0 	Telangana+	
+33.0 	Tripura+	
+34.0 	Uttar Pradesh+	
+35.0 	Uttarakhand+	
+36.0 	West Bengal+
